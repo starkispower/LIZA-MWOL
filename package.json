@@ -1,7 +1,7 @@
 {
-  "name": "LizaMwol",
+  "name": "Meenu Mwol",
   "version": "7.3.6",
-  "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkindepadayali with Baileys.",
+  "description": "Meenu Mwol is the Modified Version of WhatsAsena, Made By @STARK007 with Baileys.",
   "main": "./LIZA-MWOL/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
